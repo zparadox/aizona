@@ -33,7 +33,7 @@ To get started with AI Zona development:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AIZona/aizona.git
+   git clone https://github.com/zparadox/aizona.git
    cd aizona
 
 4. Set up the development environment:
