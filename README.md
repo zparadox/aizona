@@ -58,11 +58,11 @@ For more detailed instructions, please refer to our [Contributing Guide](CONTRIB
 
 We welcome contributions from developers of all skill levels! Whether you're fixing a bug, adding a feature, or improving documentation, your efforts are appreciated.
 
-Please read our [Contributing Guide](CONTRIBUTING.md) to get started. By contributing, you can earn AZT tokens and help shape the future of AI.
+Please read our [Contributing Guide](CONTRIBUTING.md) to get started. By contributing, you can earn AIZ tokens and help shape the future of AI.
 
 ## Reward System
 
-AI Zona uses a token-based reward system to incentivize contributions. Learn more about how you can earn AZT tokens by contributing to the project in our [Reward System Documentation](docs/reward_system.md).
+AI Zona uses a token-based reward system to incentivize contributions. Learn more about how you can earn AIZ tokens by contributing to the project in our [Reward System Documentation](docs/reward_system.md).
 
 ## Community
 
