@@ -64,6 +64,17 @@ Please read our [Contributing Guide](CONTRIBUTING.md) to get started. By contrib
 
 AI Zona uses a token-based reward system to incentivize contributions. Learn more about how you can earn AIZ tokens by contributing to the project in our [Reward System Documentation](docs/reward_system.md).
 
+## AIZ Token
+
+AI Zona uses the AIZ token as its native cryptocurrency. The token is used for:
+
+- Platform access and payments
+- Rewarding contributors
+- Governance voting
+- Staking for premium features
+
+For more details on the tokenomics, please see our [Token Documentation](docs/tokenomics.md).
+
 ## Community
 
 - Website: https://aizona.ai
