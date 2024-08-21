@@ -79,8 +79,7 @@ For more details on the tokenomics, please see our [Token Documentation](docs/to
 
 - Website: https://aizona.ai
 - GitHub Discussions: https://github.com/AIZona/aizona/discussions
-- Discord: [Join our Discord server](https://discord.gg/aizona)
-- Twitter: [@AIZonaProject](https://twitter.com/AIZonaProject)
+- Twitter: [@ai_zona](https://x.com/ai_zona)
 
 ## License
 
